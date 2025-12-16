@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smart.pdfreader",
+      "sha256_cert_fingerprints": [
+        "1A:90:5F:69:1D:7A:1D:C8:1E:8C:76:8E:0D:53:E4:83:BB:17:6B:AD:32:DC:4C:AF:5D:EB:1C:FA:AE:2D:3B:76"
+      ]
+    }
+  }
+]
