@@ -1,0 +1,5 @@
+{
+  "name": "ShelfLife PDF Reader",
+  "description": "A robust offline-capable PDF reader that manages large libraries, categorization, and remembers your reading progress.",
+  "requestFramePermissions": []
+}
